@@ -76,6 +76,9 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    "yzzyk": {
+      "api": "http://api.1080zyku.com/inc/api.php/provide/vod",
+      "name": "优质资源库"
     }
   }
 }
